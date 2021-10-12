@@ -38,4 +38,4 @@ I`ve started my way in coding with watching the cs50 of the Harvard course and r
 the work with javascript, after that I heard about RSSchool course. That course has allowed me to make 
 a giant step from theory to practice. I finished RSSchool course of Angular. I am currently taking a course on node.js
 ## English level
-My current English level is A2-A2+.
+My current English level is A2+ - B1.
